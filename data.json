@@ -1,0 +1,13 @@
+{
+    "firstName": "Nate",
+    "lastName": "Tchamba",
+    "email": "nkm0284@wmich.edu",
+    "occupation": "Software Engineer",
+    "skills": {
+        "Python": 3,
+        "JavaScript": 1,
+        "SQL": 4,
+        "React": 0,
+        "Flask": 1
+    }
+}
